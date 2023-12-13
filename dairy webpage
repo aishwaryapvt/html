@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <title>My blog</title>
+    </head>
+    <body><hr>
+    
+        <p>
+            </p><h2><b><u>Daily diary</u></b></h2>
+            <hr>
+        <p></p>
+        <ul>
+        <p title="08-11-23" style="border: 2px solid red;" id="first">
+           </p><li><b><u>DAY 1: 08-11-23</u></b></li>
+            <br>
+            <i>Today I felt so fatigue, maybe because of periods .
+                <br>
+                I woke up at 7:30 am.I attended classes.
+                <br>
+                Went to gym.
+                <br>
+                Submitted java da and completed complex notes and now I am studying html :).
+                <br>
+                <a href="#last">skip to latest day</a>
+            </i>
+        <p></p>
+        <p title="09-11-23" style="border: 2px solid blue;">
+        </p><li><b><u>DAY 2: 09-11-23</u></b></li>
+            <br>
+            <b>If you are wondering from where am I learning html then this for you.
+            <a href="https://www.udemy.com/" target="_blank">click me</a>
+            </b>
+            <br>
+           <i>Thank me later :)</i>
+            <br>
+            So, it is 2 am and I am creating this page.
+            <br>
+            don't curse me , it is how i work anyways.
+            <br>---------&nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;----------<br>
+            <i>
+                Now, I will continue writing about my day after i wake up 
+                <br> Goodnight!! &lt;3  .
+                <br>
+                <b>So, yeah I woke at 7 am for the class</b>
+                <br>
+                then I attended the classes ,many people awere absent since vacations are starting from day after tommorow.
+                <br>
+                did all my das and studied complex variables, digital system design and softskills.
+                <br>
+                seeing people going home made me sad and I ended up making Achu angry.
+                <br> And now he won't talk.
+                <br> I messed up bad.
+                <br> anyways , later in the day i went to gym and exercised
+                <br> and now learning html after everything.
+                <!--<br>Hope that I will make my parents proud .
+                <br><b>Since now I am being nothing but a burden, even i won't want myself to be my daugther.</b>  -->
+            </i>
+        <p></p>
+        <p title="10-11-23" style="border: 2px solid green;">
+        </p><li><b><u>DAY 3: 10-11-23</u></b></li>
+            <br>
+            <i>
+                YEAH, I am wake , it's 1 am now and I am creating this page.
+                <br>
+                Planning to sleep soon, I started my day with bad mood so let's see how my day would go in the morning. 
+                <br>Goodnight.. :(
+                <br>--------- &nbsp; &nbsp; &nbsp; &nbsp; ---------
+                <br>
+                So, now officially my vacation is starting tommorow.
+                yeah i made up with my parents.<br>
+                today I attended all my classes and went to gym.
+                <br>
+                now it's 11:52 pm so now i sit from some more time and then sleep.
+                <br>
+                <b> Goodnight :)</b>
+                    
+                
+            </i>
+        <p></p>
+        <p title="11-11-23" style="border: 2px solid red;">
+            </p><li><b><u>DAY 4 : 11-11-23</u></b></li>
+            <br>
+            <i>
+                So, yeah I am still awake , now it's 1 am... 
+                <br>
+                Thought today finally I will sleep early, but it is alright since my holidays
+                <br>start from today so I can sleep as much as I want.
+                <br>still I need to study for the fats, and start completing my da.
+                <br>tommorow I will create my plan and upload it in here.
+                <br><u>YIPPEE! I finally finished learning basics of html.<br> Let's GO!!</u>
+                <br> <b>Stay tuned okay~~ 
+                <br>Goodnight &lt;3 :) </b>
+                <br>--------- &nbsp; &nbsp; &nbsp; &nbsp; ----------
+                <br>
+                Hello, Today I am in a great mood.<br>
+                I cleaned my room, gave clothes to wash and started doing my da.<br>
+                I went to gym and I brought diyas which I will light tommorow.
+                <br>Hope that I will be in great mood tommorow too.
+                <p id="planforfats">
+                    <br><b> Here is my Master Study Plan for Fats </b>
+                    </p><table border="2px" width="65%">
+                        <thead>
+                            <tr><th>Day</th>
+                            <th>Subjects</th>
+                            <th>Module to study</th>   
+                        </tr></thead>
+                        <tbody>
+                            <tr>
+                                <th rowspan="4" bgcolor="greenyellow" "="">Day 1<br> 12 and 13-11-23</th>
+                                <td>Discrete maths</td>
+                                <th>1</th>
+                            </tr>
+                            <tr>
+                                <td>German</td>
+                                <th>1</th>
+                            </tr>
+                            <tr>
+                                <td>Dsd</td>
+                                <th>1</th>
+                            </tr>
+                            <tr>
+                                <td>Complex Variables</td>
+                                <th>1</th>
+                            </tr>
+                            <tr>
+                                <th colspan="3" bgcolor="black">next day</th>
+                            </tr>
+                            <tr>
+                                <th rowspan="4" bgcolor="yellow">Day 2 <br> 14-11-23</th>
+                                <td>Discrete maths</td>
+                                <th>2</th>
+                            </tr>
+                            <tr>
+                                <td>German</td>
+                                <th>2</th>
+                            </tr>
+                            <tr>
+                                <td>Dsd</td>
+                                <th>2</th>
+                            </tr>
+                            <tr>
+                                <td>Complex Variables</td>
+                                <th>2</th>
+                            </tr>
+                            <tr>
+                                <th colspan="3" bgcolor="black">next day</th>
+                            </tr>
+                            <tr>
+                                <th rowspan="4" bgcolor="lightpink">Day 3 <br>15-11-23</th>
+                                <td>Discrete maths</td>
+                                <th>3</th>
+                            </tr>
+                            <tr>
+                                <td>German</td>
+                                <th>3</th>
+                            </tr>
+                            <tr>
+                                <td>Dsd</td>
+                                <th>3</th>
+                            </tr>
+                            <tr>
+                                <td>Complex Variables</td>
+                                <th>3</th>
+                            </tr>
+                            <tr>
+                                <th colspan="3" bgcolor="black">next day</th>
+                            </tr>
+                            <tr>
+                                <th rowspan="4" bgcolor="lightblue">Day 4 <br>16-11-23</th>
+                                <td>Discrete maths</td>
+                                <th>4</th>
+                            </tr>
+                            <tr>
+                                <td>German</td>
+                                <th>4</th>
+                            </tr>
+                            <tr>
+                                <td>Dsd</td>
+                                <th>4</th>
+                            </tr>
+                            <tr>
+                                <td>Complex Variables</td>
+                                <th>7</th>
+                            </tr>
+                            <tr>
+                                <th colspan="3" bgcolor="black">next day</th>
+                            </tr>
+                            <tr>
+                                <th rowspan="4" bgcolor="orange">Day 5<br>17-11-23</th>
+                                <td>Discrete maths</td>
+                                <th>5</th>
+                            </tr>
+                            <tr>
+                                <td>German</td>
+                                <th>5</th>
+                            </tr>
+                            <tr>
+                                <td>Dsd</td>
+                                <th>5</th>
+                            </tr>
+                            <tr>
+                                <td>Complex Variables</td>
+                                <th>5</th>
+                            </tr>
+                            <tr>
+                                <th colspan="3" bgcolor="black">next day</th>
+                            </tr>
+                            <tr>
+                                <th rowspan="4" bgcolor="lightgreen">Day 6<br>18-11-23</th>
+                                <td>Discrete maths</td>
+                                <th>6</th>
+                            </tr>
+                            <tr>
+                                <td>German</td>
+                                <th>6</th>
+                            </tr>
+                            <tr>
+                                <td>Dsd</td>
+                                <th>6</th>
+                            </tr>
+                            <tr>
+                                <td>Complex Variables</td>
+                                <th>4</th>
+                            </tr>
+                            <tr>
+                                <th colspan="3" bgcolor="black">next day</th>
+                            </tr>
+                            <tr>
+                                <th rowspan="4" bgcolor="purple">Day 7<br>19-11-23</th>
+                                <td>Discrete maths</td>
+                                <th>7</th>
+                            </tr>
+                            <tr>
+                                <td>German</td>
+                                <th>7</th>
+                            </tr>
+                            <tr>
+                                <td>Dsd</td>
+                                <th>7</th>
+                            </tr>
+                            <tr>
+                                <td>Complex Variables</td>
+                                <th>6</th>
+                            </tr>
+                        </tbody>
+                    </table>
+                <p></p>
+            </i>
+        <p title="12-11-23" style="border: 2px solid royalblue;">
+            <b><u></u></b></p><li><b><u>Day 5 : 12-11-23</u></b></li>
+            <br>
+            <i>
+                Now, it is 2 am and it is <b>DIWALI &lt;3 &lt;3 </b><br>
+                Hope I have a great day !! <br>
+                I discovered that my course has two series which teaches the same thing.
+                <br>   No choice I have to finish all video inorder to get the certificate.
+                <br> Wish me Luck..
+                <br><b>Goodnight :) </b>
+                <br>--------- &nbsp; &nbsp; &nbsp; &nbsp; ----------
+                <br><b>I had a great day!!</b>
+                <br>Today, i went out to buy firecrackers with my friend, then ate panipuri on the way back.
+                <br> later in the evening I did puja with amma in the video call and lit up the diyas i brought from the shop.
+                <br> In the evening, I lit in firecrackers with my friends and saw the fireworks together.<br>
+                This diwali was way better than I expected but it can't beat the diwali I have with my family.
+                now, I am tired and I am going to sleep.
+                <br> Goodnight !!! &lt;3 
+            </i>
+        <p title="13-11-23" style="border: 2px solid green;">
+            <b><u></u></b></p><li><b><u>Day 6 : 13-11-23</u></b></li>
+            <br>
+            <i>
+                So, Today I slept peacefully till 10 am.
+                <br> Since the gym is closed for two days I did the warm up in the room but I got muscle pain in my thighs.
+                <br> Hoping they will open the gym soon <b>TwT</b> .
+                <br>I started my daily challenge and it is the day 1 from the plan. refer the table in <a href="#planforfats">day 4</a>
+                <br>let's go!!
+                <br> update I didn't finish my plan so will be continuing tommorow... :(
+                <br><b>Goodnight !!     </b>
+                <br><h3>Introducing my routine plan for tommorow:</h3>
+                <table border="2px" width="40%" id="routine">
+                    <thead>
+                    <tr>
+                        <th bgcolor="yellow">Time</th>
+                        <th bgcolor="greenyellow">To do</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <td>8:30 am</td>
+                        <th>Wake up</th>
+                    </tr>
+                    <tr>
+                        <td>9:00 am - 10:00 am</td>
+                        <th>Breakfast</th>
+                    </tr>
+                    <tr>
+                        <td>10:00 am - 1 pm</td>
+                        <th>Study session 1</th>
+                    </tr>
+                    <tr>
+                        <td>1:00 pm - 2 pm</td>
+                        <th>Lunch</th>
+                    </tr>
+                    <tr>
+                        <td>2:00 pm - 4:00 pm</td>
+                        <th>Study session 2</th>
+                    </tr>
+                    <tr>
+                        <td>4:30 pm - 6:00 pm</td>
+                        <th>Gym</th>
+                    </tr>
+                    <tr>
+                        <td>6:30 pm - 8:00 pm</td>
+                        <th>Study session 3</th>
+                    </tr>
+                    <tr>
+                        <td>8:00 pm - 9:00 pm</td>
+                        <th>Dinner</th>
+                    </tr>
+                    <tr>
+                        <td>9:00 pm - 12:00 am</td>
+                        <th>Free time</th>
+                    </tr>
+                    </tbody>
+                </table>
+            </i>
+        <p></p>
+        <p title="14-11-23" style="border: 2px solid red;">
+            <b></b></p><li><b><u>Day 7: 14-11-23</u></b></li>
+            <br>
+            <i>
+               Yes again surprise-suprise I am awake...
+               <br>It is now 2:30 am .Hoping to follow the <a href="#routine">routine</a> tommorow.
+               <br>Fighting!! &lt;3
+               <br>--------- &nbsp; &nbsp; &nbsp; &nbsp; ----------
+               <br>Failed to follow :( TwT.
+            </i>
+        <p></p>
+        <p title="14-11-23" style="border: 2px solid blue;">
+            <b></b></p><li><b><u>Day 8: 17-11-23</u></b></li>
+            <br>
+            <i>
+                Health not okay~ so no update for the past days..
+                <br>sorry!!
+                <br>Next plan to not sleep until i finish my dsd and discrete das .
+                <br>Now, it is 2 am.. Hopefully will finish it by 5 am
+                <br>Fighting!! &lt;3
+                <br>P.S. : Created a new webpage <b><i><u><a href="Transfer-Exchange_prog.html" target="_blank">Referrals</a></u></i></b> 
+                <br>--------- &nbsp; &nbsp; &nbsp; &nbsp; ----------
+                <br>I finished my discrete da and  now i have finish my dsd and java da 
+                <br> Only one day remaining ToT ....
+                <br> Goodnight!! <3
+            </i>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p id="last" style="border: 2px solid black;">
+           <em>Hehe , you reached here... Just scroll up for the latest entry.</em>
+           <br>Click to go to <a href="#first">first page</a>
+           <br><a href="file:///C:/Users/aishw/Documents/Html/newblog.html" target="_blank ">To go to my Portfolio</a>
+        </p>
+        </ul>
+    
+</body></html>
