@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+    <style>
+        body
+        {
+            text-align: center;
+            background-image: url("image/flower box.jpg");
+            background-position: center ;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        table
+        {
+            background-color: rgb(29, 29, 75);
+            color: aliceblue;
+            width: 100%;
+        }
+        form
+        {
+            
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th><h2><u>Clothesinme corp</u></h2></th>
+        </tr>
+        <tr>
+            <th><h4>-registration for new employes-</h4></th>
+        </tr>
+    </table>
+    
+    <p>
+        <form>
+            <label>Name : </label>
+            <input type="text" id="name">
+            <br><br>
+            <label>Username :</label>
+            <input type="text" id="usname">
+            <br><br>
+            <label>Date of birth :</label>
+            <input type="date">
+            <br><br>
+            <label>Registration Number :</label>
+            <input type="text" id="resno">
+            <br><br>
+            <label>Department :</label>
+            <input type="text" id="dept">
+            <br><br>
+            <label>Email :</label>
+            <input type="email">
+            <br><br>
+            <button type="button" onclick="programming"> Submit</button>
+        </form>
+    </p>
+    <p id="verification"></p>
+        <script>
+            function specialchar(str)
+            {
+                let spchar=/^[a-zA-Z]+@+[0-9]/;
+                return spchar.test(str);
+            }
+            function alphabet(str)
+            {
+                let alpha=/^[a-zA-Z]/;
+                return alpha.test(str);
+            }
+            function programming()
+            {
+                let x=document.getElementById("name").value;
+                let y=document.getElementById("usname").value;
+                let z=document.getElementById("resno").value;
+                let w=document.getElementById("dept").value;
+                let text;
+                if (isNaN(z)|| specialchar(y)||alphabet(x)||alphabet(w))
+                {
+                    text ="Data Entered is registered";
+                }
+                else
+                {
+                    text="Data entered is wrong , Please try again.";
+                }
+                document.getElementById("verification").innerHTML = text;
+            }
+        </script>    
+</body>
+</html>
